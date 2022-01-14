@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnatolyKlochko
-- 👀 I’m interested in remote work on part time 08:00 AM - 05:00 PM, UTC+03:00
-- 🌱 I’m currently learning php, js
+- 👀 Possible I can be interested in remote work on part time 08:00 AM - 05:00 PM, UTC+03:00
+- 🌱 In most cases I use php, js
 - 💞️ I’m looking to collaborate on web projects
 - 📫 to reach me: anatoly.klochko@gmail.com
 
